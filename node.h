@@ -12,7 +12,6 @@ struct node
     char data;
     struct node *nextPtr;
 };
-
 typedef struct node Node;
 typedef struct node* NodePtr;
 
